@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/VERSION-1.0.0-blue.svg" alt="Version"/></a>
   <a href="#"><img src="https://img.shields.io/badge/STATUS-ONLINE-green.svg" alt="Status"/></a>
-  <a href="https://github.com/A-d-i-t-h-y-a-n-x-d"><img src="https://img.shields.io/badge/DEVELOPER-Aadhi%20XD-orange.svg" alt="Developer"/></a>
+  <a href="https://github.com/Xion-Xer"><img src="https://img.shields.io/badge/DEVELOPER-Aadhi%20XD-orange.svg" alt="Developer"/></a>
   <a href="https://www.npmjs.com/package/@aadhixd777/baileys"><img src="https://img.shields.io/badge/CORE-@aadhixd777/baileys-red.svg" alt="Core Engine"/></a>
 </p>
 
@@ -21,7 +21,7 @@ Unlike standard frameworks, ZORO-MD is natively built on **Aadhi's original core
 
 ## ⚙️ Core Technical Architecture
 * **Primary Engine:** Powered by Aadhi's proprietary **`@aadhixd777/baileys`** package.
-* **Developer:** Aadhi XD (`@A-d-i-t-h-y-a-n-x-d`) 
+* **Developer:** Aadhi XD (`@Xion-Xer`) 
 * **Environment:** Built on Node.js using Multi-Device pairing architecture.
 
 ## 🚀 Features
